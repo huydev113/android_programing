@@ -22,4 +22,6 @@ dependencyResolutionManagement {
 rootProject.name = "Bai15"
 include(":app")
 include(":app")
+include(":app")
+include(":app")
  
